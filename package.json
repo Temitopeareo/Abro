@@ -1,7 +1,7 @@
 {
-  "name": "hermit-md",
+  "name": "abro-md",
   "version": "4.4.1",
-  "description": "Hermit-md - Simple whatsapp Multi Device bot based on @adiwajshing/baileys.",
+  "description": "Abro-md - Simple whatsapp Multi Device bot based on @adiwajshing/baileys.",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start . --attach --name hermit-md"
